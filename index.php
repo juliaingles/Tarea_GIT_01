@@ -1,3 +1,4 @@
+
 <html>
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
@@ -9,7 +10,7 @@
 
 <!-- Feel free to change this text here -->
 <p>
-  Rama master
+  
 </p>
 <p>
 </p>
